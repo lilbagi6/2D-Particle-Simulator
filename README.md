@@ -1,4 +1,4 @@
-# 🧪 2D Particle Simulator (Newton's Physics)
+# 2D Particle Simulator (Newton's Physics)
  
 **This is the initial version of the simulation — I will update it soon**
 
